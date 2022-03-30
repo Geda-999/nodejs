@@ -4,10 +4,10 @@
 
 ```bash
 # 克隆
-git clone 
+git clone https://github.com/Geda-999/nodejs.git
 
 # 进入项目
-cd 
+cd nodejs
 
 # 安装依赖包
 yarn
