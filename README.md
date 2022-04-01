@@ -15,5 +15,7 @@ yarn
 npm install
 
 # 运行项目
+yarn dev
+# 或
 node app.js
 ```
